@@ -5,6 +5,22 @@ Buy whiskey web page
  18/12/2020 Alex Bastor
  Bootstrap 4.3
 
+------ 
+
+## Updates since the first deployment
+
+19/12/2020 Completed all css style follow the steps of 
+Bootstrap-Beyond-Updating Quotes and Features
+
+------
+
+## Nexts steps 
+
+- Style the table element
+
+-- remove the Icon
+
+- Create links
 ------
 ## Gitpod Reminders
 
